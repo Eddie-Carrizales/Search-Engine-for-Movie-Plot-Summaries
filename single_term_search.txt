@@ -1,0 +1,15 @@
+Thriller
+Romance
+Funny
+Action
+Fantasy
+Horror
+Drama
+Adventure
+Mystery
+Animation
+Sci-Fi
+Biography
+Musical
+Technology
+Documentary
