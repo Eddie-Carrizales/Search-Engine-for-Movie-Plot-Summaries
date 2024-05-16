@@ -1,6 +1,7 @@
 # Search-Engine-for-Movie-Plot-Summaries
 Built a search engine using tf-idf technique for the movie plot summaries that are available in the Carnegie Movie Summary Corpus site.
-Link: http://www.cs.cmu.edu/~ark/personas/
+
+Link to dataset: http://www.cs.cmu.edu/~ark/personas/
 
 Instructions for running the code:
 1. Sign up for a free account on Databricks Community Edition.
